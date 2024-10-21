@@ -37,18 +37,25 @@ To build `NDRtoSN`, files for work with abstract lists al.h and al.c should be d
 `generator` , `verilog code` and `cst` file format according to https://github.com/ZhangS2000/verilog_generator/tree/main
 
 
-Input file (.h): 
-----------------
+Input file (.h) of generator: 
+-----------------------------
 
 h file contains m, n, B[m][n], D[m][n], R[m][n], and mu[m]
 
 h file can be obtained from `SN-VM`
 
 
-Output file (.v): 
------------------
+Output file (.v) of generator: 
+------------------------------
 
 Verilog code corresponding to Sleptsov net
+
+
+Input files (.v and .cst) of Gowin FPGA Designer:
+-------------------------------------------------
+
+Choose .v and .cst files corresponding to FPGA to run in Gowin
+
 
 
 Parameters:
