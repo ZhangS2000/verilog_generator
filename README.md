@@ -65,13 +65,13 @@ m: number of places
 
 n: number of transitions
 
-B matrix: places -->  transitions
+B matrix: incoming arcs of transitions
 
-D matrix: transitions -->  places
+D matrix: outgoing arcs of transitions
 
-R matrix: transitions priorities
+R matrix: priority arcs connecting transitions
 
-mu vector: value of places
+mu vector: initial marking
 
 RES_PL: output place of Sleptsov net
 
