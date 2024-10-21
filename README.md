@@ -1,4 +1,4 @@
-## `Genarator: Generate verilog code `
+## `Generator: Generate verilog code `
 
 # Generator of verilog code through h file of Sleptsov net
 
