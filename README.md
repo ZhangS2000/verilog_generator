@@ -66,7 +66,7 @@ R matrix: transitions priorities
 
 mu vector: value of places
 
-RES_PL: output of Sleptsov net
+RES_PL: output place of Sleptsov net
 
 pres1: bits of places and transitions
 
